@@ -12,7 +12,7 @@ module.exports = {
   author: 'Kino',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '所有天资聪明的一定还需要什么，还需要艰苦的训练',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
@@ -23,8 +23,8 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon: 'feather',
+  defaultPageCover: '',
   defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
