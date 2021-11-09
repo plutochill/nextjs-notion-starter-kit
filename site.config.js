@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: '所有天资聪明的一定还需要什么，还需要艰苦的训练',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Kino的三味书屋',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'feather',
+  defaultPageIcon: '',
   defaultPageCover: '',
   defaultPageCoverPosition: 0.5,
 
